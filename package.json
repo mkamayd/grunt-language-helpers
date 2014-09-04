@@ -36,6 +36,6 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin" , "language", "angular-translate", "helper"
   ]
 }
